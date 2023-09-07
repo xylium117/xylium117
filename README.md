@@ -8,12 +8,14 @@
 
 ## 🌟 Project Highlights
 
-1. **CodeStride (coming soon)**
-   - **Description:** Tired of dull code tracking extensions for VSCode? Enter CodeStride, your coding buddy! It's not just about tracking; it's about turning coding into a game with achievements, leaderboards, and bragging rights. Get ready for some coding fun! 🚀💻🏆
-
+1. **ASCII Art Filter**
+   - **Description:** Tired of dull filters for images? This filter allows you to convert any image to ASCII Art. You don't even need to apply any filters; the code does it for you! 💻🏆
+2. **NASA API Showcase (coming soon)**
+   - **Description:** NASA's OpenAPI offers a wide range of space data. This webpage will showcase all NASA has to show us using their satellites, so you can reach for the stars free of cost! 🚀🏆
+   
 ## 📨 Let's Connect
 
 Feel free to reach out! You can find me here:
 
-- Tweet me: [@jeymendev on Twitter](https://twitter.com/jeymendev) 🐦
-- Chat with me on Discord: @jeymen 🎮
+- Tweet me: [@PhysC08 on Twitter](https://twitter.com/PhysC08) 🐦
+- Chat with me on Discord: @physc09 🎮
