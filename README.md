@@ -12,6 +12,9 @@
    - **Description:** Tired of dull filters for images? This filter allows you to convert any image to ASCII Art. You don't even need to apply any filters; the code does it for you! 💻🏆
 2. **NASA API Showcase (coming soon)**
    - **Description:** NASA's OpenAPI offers a wide range of space data. This webpage will showcase all NASA has to show us using their satellites, so you can reach for the stars free of cost! 🚀🏆
+
+3. **CodePen Showcase (coming soon)**
+   - **Description:** A webpage showcasing all my CodePen projects! 💻🚀
    
 ## 📨 Let's Connect
 
