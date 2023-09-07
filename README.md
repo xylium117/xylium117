@@ -16,7 +16,7 @@
 3. **CodePen Showcase (coming soon)**
    - **Description:** A webpage showcasing all my CodePen projects! 💻🚀
   
-##  GitHub Stats
+## 📜 GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ayushmansarkar)
 
