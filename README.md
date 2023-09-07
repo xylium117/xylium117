@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 
-[![Technologies & Tools](https://skillicons.dev/icons?i=html,css,sass,js,react,jquery,nodejs,py,java,kotlin,c,cpp,arduino,ps,blender,replit,vscode&theme=dark)](https://skillicons.dev)
+[![Technologies & Tools](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,jquery,py,java,kotlin,c,cpp,arduino,ps,blender,codepen,firebase,replit,vscode&theme=dark)](https://skillicons.dev)
 
 ## 🌟 Project Highlights
 
