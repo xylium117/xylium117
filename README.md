@@ -23,7 +23,6 @@
 ## 📜 GitHub Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ayushmansarkar)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmansarkar)](https://github.com/ayushmansarkar/github-readme-stats)
    
 ## 📨 Let's Connect
