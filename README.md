@@ -14,7 +14,7 @@
 2. **NASA API Showcase (coming soon)**
    - **Description:** NASA's OpenAPI offers a wide range of space data. This webpage will showcase all NASA has to show us using their satellites, so you can reach for the stars free of cost! 🚀🏆
 
-3. **CodePen Showcase (coming soon)**
+3. **CodePen Showcase (has arrived!)**
    - **Description:** A webpage showcasing all my CodePen projects! 💻🚀
 
 4. **Image Filters | Python**
