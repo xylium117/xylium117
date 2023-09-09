@@ -70,17 +70,16 @@
 
 ## 🌟 Project Highlights
 
-1. **ASCII Art Filter**
-   - **Description:** Tired of dull filters for images? This filter allows you to convert any image to ASCII Art. You don't even need to apply any filters; the code does it for you! 💻🏆
-     
-2. **NASA API Showcase (coming soon)**
-   - **Description:** NASA's OpenAPI offers a wide range of space data. This webpage will showcase all NASA has to show us using their satellites, so you can reach for the stars free of cost! 🚀🏆
-
-3. **CodePen Showcase (has arrived!)**
-   - **Description:** A webpage showcasing all my CodePen projects! 💻🚀
-
-4. **Image Filters | Python**
-   - **Description:** Apply filers with ease, using an intuitive Python GUI.📸✨
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/AyushmanSarkar/codepen-gallery">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushmanSarkar&repo=codepen-gallery" alt="codepen-gallery" />
+    </a>
+    <a href="https://github.com/AyushmanSarkar/Battleship-v2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushmanSarkar&repo=Battleship-v2" alt="Battleship-v2" />
+    </a>
+  </div>
+</div>
 
 ## 📨 Let's Connect
   
