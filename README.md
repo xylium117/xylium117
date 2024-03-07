@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**I'm Ayushman** - I'm a fullstack developer, game dev, tech enthusiast, and high school student. I've been on a wild ride through the world of tech, and I'm excited to take you along on this digital journey with me! 🚀
+**I'm iSark** - I'm a fullstack developer, game dev, tech enthusiast, and high school student. I've been on a wild ride through the world of tech, and I'm excited to take you along on this digital journey with me! 🚀
 
 <h2 align="center">
   🔧 Technologies and Frameworks in my :toolbox::
