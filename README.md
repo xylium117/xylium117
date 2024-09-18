@@ -71,11 +71,11 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/AyushmanSarkar/codepen-gallery">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushmanSarkar&repo=codepen-gallery" alt="codepen-gallery" />
+    <a href="https://github.com/xylium117/zerconium">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117\&repo=zerconium" alt="codepen-gallery" />
     </a>
-    <a href="https://github.com/AyushmanSarkar/Battleship-v2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushmanSarkar&repo=Battleship-v2" alt="Battleship-v2" />
+    <a href="https://github.com/xylium117/Battleship-v2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117&repo=Battleship-v2" alt="Battleship-v2" />
     </a>
   </div>
 </div>
@@ -109,7 +109,9 @@
 
 <div align="center">
    
-   [![GitHub Streak](https://streak-stats.demolab.com?user=xylium117&theme=one-dark-pro&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+   ![xylium117's Stats](https://github-readme-stats.vercel.app/api?username=xylium117&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+   <br>
+![xylium117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xylium117&theme=onedark&show_icons=true&hide_border=true&layout=compact)
    
 </div>
                   
