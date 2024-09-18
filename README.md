@@ -109,10 +109,10 @@
 
 <div align="center">
 
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/xylium117/zerconium">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xylium117&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/xylium117/zerconium">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xylium117&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
 </a>
    
