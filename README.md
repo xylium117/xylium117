@@ -72,7 +72,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/xylium117/zerconium">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117\&repo=Battleship-v2" alt="Battleship-v2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117&repo=zerconium" alt="Zerconium" />
     </a>
     <a href="https://github.com/xylium117/Battleship-v2">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117&repo=Battleship-v2" alt="Battleship-v2" />
@@ -108,10 +108,13 @@
 </p>   
 
 <div align="center">
-   
-   ![xylium117's Stats](https://github-readme-stats.vercel.app/api?username=xylium117&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-   <br>
-![xylium117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xylium117&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xylium117&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xylium117&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
+</a>
    
 </div>
                   
