@@ -115,9 +115,9 @@
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/AyushmanSarkar/AyushmanSarkar?color=%230ABF53&logo=Github)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/AyushmanSarkar/AyushmanSarkar?color=%230ABF53&logo=Github)
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%AyushmanSarkar&countColor=%230abf53&style=flat)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/xylium117/xylium117?color=%230ABF53&logo=Github)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/xylium117/xylium117?color=%230ABF53&logo=Github)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%xylium117&countColor=%230abf53&style=flat)
   
 </div>
                    
