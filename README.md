@@ -58,13 +58,12 @@
 
   <br>
   
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 
  <br>
   
  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit" alt="Unity">
- <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Firebase">
+ <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE5">
   
 </p>
 
@@ -96,7 +95,7 @@
     <a href="https://discord.com/app">
     <img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white&color=071A2C" alt="Discord"/>
   </a>
-  <a href="https://github.com/AyushmanSarkar">
+  <a href="https://github.com/xylium117">
     <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&logoColor=white&color=071A2C"" alt="Github"/>
   </a>
    </a>
