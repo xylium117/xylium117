@@ -112,15 +112,7 @@
    [![GitHub Streak](https://streak-stats.demolab.com?user=xylium117&theme=one-dark-pro&hide_border=true&mode=weekly)](https://git.io/streak-stats)
    
 </div>
-
-<div align="center">
-  
-  ![GitHub last commit](https://img.shields.io/github/last-commit/xylium/zerconium)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/xylium117/xylium117?color=%230ABF53&logo=Github)
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%xylium117&countColor=%230abf53&style=flat)
-  
-</div>
-                   
+                  
                    
 <p align="center">
   Thank you for visiting my repository. 
