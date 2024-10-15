@@ -119,7 +119,8 @@
 </div>
                   
                    
-<p align="center">
+<p align="center" style="font-size:28px">
+  <br>
   Thank you for visiting my repository. 
   <br>
   Cheers!
