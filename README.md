@@ -2,7 +2,7 @@
 
 **I'm Ayushman** - I'm a fullstack developer, game dev, tech enthusiast, and high school student from India. I've been on a wild ride through the world of tech, and I'm excited to take you along on this digital journey with me! 🚀
 
-<h2 align="center">
+<h2 align="left">
   🔧 Technologies and Frameworks in my :toolbox::
 </h2>
              
