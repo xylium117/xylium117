@@ -119,10 +119,12 @@
 </div>
                   
                    
-<p align="center" style="font-weight:bold;font-size:28px">
+<p align="center" style="font-weight:900;font-size:28px">
+  <b>
   <br>
   Thank you for visiting my repository. 
   <br>
   Cheers!
+  </b>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="30px" height="30px">
 </p> 
