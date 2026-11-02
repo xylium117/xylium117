@@ -128,7 +128,7 @@
   </a>
    </a>
     <a href="https://twitter.com/PhysC08">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-071A2C?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
    <a href="mailto:aayushmans2008@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Mail"/>
