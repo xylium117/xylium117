@@ -62,11 +62,20 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/xylium117/zerconium">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117&repo=zerconium" alt="Zerconium" />
+    <a href="https://github.com/xylium117/kharcha">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fkharcha&description_lines_count=3&theme=dark_github_repocard" alt="kharcha" />
     </a>
-    <a href="https://github.com/xylium117/Battleship-v2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xylium117&repo=Battleship-v2" alt="Battleship-v2" />
+    <a href="https://github.com/xylium117/ecopulse">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fecopulse&description_lines_count=3&theme=dark_github_repocard" alt="ecopulse" />
+    </a>
+    <a href="https://github.com/xylium117/logiscope.ai">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Flogiscope.ai&description_lines_count=3&theme=dark_github_repocard" alt="logiscope.ai" />
+    </a>
+    <a href="https://github.com/xylium117/quantumcode">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fquantumcode&description_lines_count=3&theme=dark_github_repocard" alt="quantumcode" />
+    </a>
+    <a href="https://github.com/xylium117/kmap">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fkmap&description_lines_count=3&theme=dark_github_repocard" alt="kmap" />
     </a>
   </div>
 </div>
@@ -99,12 +108,12 @@
 </p>   
 
 <div align="center">
-
-   <a href="https://github.com/xylium117/zerconium">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xylium117&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
+   <a href="https://github.com/xylium117/kharcha">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=xylium117&show_icons=true&include_all_commits=true&theme=onedark" />
 </a>
-<a href="https://github.com/xylium117/zerconium">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xylium117&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
+  &nbsp;&nbsp;
+<a href="https://github.com/xylium117/kharcha">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=xylium117&layout=compact&langs_count=8&theme=onedark" />
 </a>
    
 </div>
