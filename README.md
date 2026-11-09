@@ -105,6 +105,9 @@
     <a href="https://github.com/xylium117/kmap">
       <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fkmap&description_lines_count=3&theme=dark_github_repocard" alt="kmap" />
     </a>
+    <a href="https://github.com/xylium117/hattrk">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=xylium117&repo=xylium117%2Fhattrk&description_lines_count=3&theme=dark_github_repocard" alt="hattrk" />
+    </a>
   </div>
 </div>
 
